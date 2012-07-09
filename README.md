@@ -7,7 +7,10 @@ Tronify your standard iOS UI with just 1 line of code
 
 
 Before (Interface Builder)
-<img src="https://github.com/torinnguyen/tronify/blob/master/screenshot_before.png" />
+
+<img src="https://github.com/torinnguyen/tronify/raw/master/screenshot_brefore.png" />
+
 
 After:
-<img src="https://github.com/torinnguyen/tronify/blob/master/screenshot_after.png" />
+
+<img src="http://github.com/torinnguyen/tronify/raw/master/screenshot_after.png" />
