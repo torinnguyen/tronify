@@ -13,4 +13,4 @@ Before (Interface Builder)
 
 After:
 
-<img src="http://github.com/torinnguyen/tronify/raw/master/screenshot_after.png" />
+<img src="https://github.com/torinnguyen/tronify/raw/master/screenshot_after.png" />
